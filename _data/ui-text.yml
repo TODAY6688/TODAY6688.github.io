@@ -61,7 +61,7 @@ es: &DEFAULT_ES
   less_than                  : "menos de"
   minute_read                : "minuto de lectura"
   share_on_label             : "Compartir"
-  meta_label                 :
+  meta_label                 : ""menos
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
